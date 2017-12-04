@@ -7,7 +7,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 public class MenuActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -32,7 +31,7 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(this, TutorialActivity.class));
                 break;
             case R.id.btn_simulasi:
-                Toast.makeText(this, "Ini simulasi", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, SimulasiActivity.class));
                 break;
             case R.id.img_android:
                 new AlertDialog.Builder(this)
