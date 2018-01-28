@@ -1,9 +1,30 @@
 <resources>
     <string name="app_name">Berzakat</string>
-    <string name="tutorial">Tutorial</string>
-    <string name="simulasi">Simulasi</string>
+    <string name="apa_sih">Apa sih Zakat?</string>
+    <string name="hitung_zakat">Hitung Zakat</string>
     <string name="minus">-</string>
     <string name="keuntungan">Keuntungan</string>
     <string name="tabungan">Tabungan</string>
     <string name="hitung">Hitung</string>
+    <string name="tentang">Tentang</string>
+    <string name="pengertian_zakat">Pengertian Zakat</string>
+    <string name="dalil">Didalaam Q.S Al Baqarah ayat: 42, 84, 110, 177, 277\n
+        Didalaam Q.S Annisa ayat: 77 dan 162\n
+        Didalaam Q.S Al-Maidah ayat: 12 dan 55\n
+        Didalaam Q.S Al-Araaf ayat: 156\n
+        Didalaam Q.S At-Taubah ayat: 5, 11, 18, dan 71\n
+        Didalaam Q.S Al-Anbiya ayat: 73\n
+        Didalaam Q.S Al-Hajj ayat: 41 dan 78\n
+        Didalaam Q.S An-Nur ayat: 37 dan 56\n
+        Didalaam Q.S Annaml ayat: 3\n
+        Didalaam Q.S Luqman ayat: 4\n
+        Didalaam Q.S Al-Ahzab ayat: 37\n
+        Didalaam Q.S Fushilat ayat: 7\n
+        Didalaam Q.S Al-Mujadiillah ayat: 13\n
+        Didalaam Q.S Al Muz'amil ayat: 20\n
+        Didalaam Q.S Al-Bayyinah ayat: 5</string>
+    <string name="macam_macam_zakat">Macam-macam Zakat</string>
+    <string name="zakat_fitrah">Zakat Fitrah</string>
+    <string name="zakat_mal">Zakat Mal</string>
+    <string name="zakat_profesi">Zakat Profesi</string>
 </resources>

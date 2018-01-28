@@ -7,36 +7,37 @@
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
         android:background="@color/colorPrimary"
-        app:title="@string/app_name"
+        app:navigationIcon="@drawable/v_back"
+        app:title="Macam-macam Zakat"
         app:titleTextColor="@android:color/white"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
+    <LinearLayout
         android:orientation="vertical"
+        android:padding="20dp"
         android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <Button
-            android:id="@+id/btn_apa_sih"
+            android:id="@+id/btn_fitrah"
             android:background="@drawable/button_background"
-            android:text="@string/apa_sih"
+            android:text="@string/zakat_fitrah"
             android:layout_marginBottom="10dp"
             android:textAllCaps="false"
             android:layout_width="200dp"
             android:layout_height="wrap_content" />
         <Button
-            android:id="@+id/btn_hitung_fitrah"
+            android:id="@+id/btn_mal"
             android:background="@drawable/button_background"
-            android:text="@string/hitung_zakat"
-            android:layout_marginBottom="100dp"
+            android:text="@string/zakat_mal"
+            android:layout_marginBottom="10dp"
             android:textAllCaps="false"
             android:layout_width="200dp"
             android:layout_height="wrap_content" />
         <Button
-            android:id="@+id/btn_tentang"
+            android:id="@+id/btn_profesi"
             android:background="@drawable/button_background"
-            android:text="@string/tentang"
+            android:text="@string/zakat_profesi"
             android:layout_marginBottom="10dp"
             android:textAllCaps="false"
             android:layout_width="200dp"

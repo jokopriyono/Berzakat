@@ -1,12 +1,10 @@
 package com.berzakat.berzakat;
 
 import android.content.Intent;
-import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageView;
 
 public class MenuActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -15,30 +13,22 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu);
 
-        Button btnTutorial = findViewById(R.id.btn_tutorial);
-        Button btnSimulasi = findViewById(R.id.btn_simulasi);
-        ImageView imgAndroid = findViewById(R.id.img_android);
+        Button btnTutorial = findViewById(R.id.btn_apa_sih);
+        Button btnSimulasi = findViewById(R.id.btn_hitung_fitrah);
 
         btnTutorial.setOnClickListener(this);
         btnSimulasi.setOnClickListener(this);
-        imgAndroid.setOnClickListener(this);
     }
 
     @Override
     public void onClick(View view) {
         switch (view.getId()){
-            case R.id.btn_tutorial:
-                startActivity(new Intent(this, TutorialActivity.class));
+            case R.id.btn_apa_sih:
+                startActivity(new Intent(this, ApaSihActivity.class));
                 break;
-            case R.id.btn_simulasi:
+            case R.id.btn_hitung_fitrah:
                 startActivity(new Intent(this, SimulasiActivity.class));
                 break;
-            case R.id.img_android:
-                new AlertDialog.Builder(this)
-                        .setMessage("Ini gambar")
-                        .setPositiveButton("OK", null)
-                        .setCancelable(true)
-                        .create().show();
         }
     }
 }
