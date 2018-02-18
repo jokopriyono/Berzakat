@@ -24,9 +24,9 @@ public class ApaSihActivity extends AppCompatActivity implements View.OnClickLis
 
     @Override
     public void onClick(View view) {
-        Intent intent;
         switch (view.getId()){
             case R.id.btn_pengertian:
+                startActivity(new Intent(this, PengertianActivity.class));
                 break;
             case R.id.btn_dalil:
                 startActivity(new Intent(this, DalilActivity.class));

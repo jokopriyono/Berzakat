@@ -21,7 +21,10 @@
             android:label="Panduan" />
         <activity android:name=".SimulasiActivity" />
         <activity android:name=".MacamActivity" />
-        <activity android:name=".DalilActivity"></activity>
+        <activity android:name=".DalilActivity" />
+        <activity android:name=".PengertianActivity" />
+        <activity android:name=".ZakatFitrahActivity" />
+        <activity android:name=".ZakatMaalActivity"></activity>
     </application>
 
 </manifest>

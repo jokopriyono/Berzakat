@@ -8,23 +8,52 @@
     <string name="hitung">Hitung</string>
     <string name="tentang">Tentang</string>
     <string name="pengertian_zakat">Pengertian Zakat</string>
-    <string name="dalil">Didalaam Q.S Al Baqarah ayat: 42, 84, 110, 177, 277\n
-        Didalaam Q.S Annisa ayat: 77 dan 162\n
-        Didalaam Q.S Al-Maidah ayat: 12 dan 55\n
-        Didalaam Q.S Al-Araaf ayat: 156\n
-        Didalaam Q.S At-Taubah ayat: 5, 11, 18, dan 71\n
-        Didalaam Q.S Al-Anbiya ayat: 73\n
-        Didalaam Q.S Al-Hajj ayat: 41 dan 78\n
-        Didalaam Q.S An-Nur ayat: 37 dan 56\n
-        Didalaam Q.S Annaml ayat: 3\n
-        Didalaam Q.S Luqman ayat: 4\n
-        Didalaam Q.S Al-Ahzab ayat: 37\n
-        Didalaam Q.S Fushilat ayat: 7\n
-        Didalaam Q.S Al-Mujadiillah ayat: 13\n
-        Didalaam Q.S Al Muz'amil ayat: 20\n
-        Didalaam Q.S Al-Bayyinah ayat: 5</string>
+    <string name="zakat_adalah">Zakat menurut bahasa adalah bersih, tumbuh, berkah, dan pujian. Definisi zakat menurut istilah adalah beribadah kepada Allah SWT dengan mengeluarkan hak yang wajib, dari harta tertentu, pada waktu tertentu, bagi golongan tertentu, dan dengan syarat tertentu.</string>
+    <string name="dalil">Di dalam Q.S Al Baqarah ayat: 42, 84, 110, 177, 277\n\n
+        Dan janganlah kamu campur adukkan yang hak dengan yang bathil dan janganlah kamu sembunyikan yang hak itu, sedang kamu mengetahui.\n
+        Dan (ingatlah), ketika Kami mengambil janji dari kamu (yaitu): kamu tidak akan menumpahkan darahmu (membunuh orang), dan kamu tidak akan mengusir dirimu (saudaramu sebangsa) dari kampung halamanmu, kemudian kamu berikrar (akan memenuhinya) sedang kamu mempersaksikannya.\n
+        Dan dirikanlah shalat dan tunaikanlah zakat. Dan kebaikan apa saja yang kamu usahakan bagi dirimu, tentu kamu akan mendapat pahala nya pada sisi Allah. Sesungguhnya Alah Maha Melihat apa-apa yang kamu kerjakan.\n
+        Bukanlah menghadapkan wajahmu ke arah timur dan barat itu suatu kebajikan, akan tetapi sesungguhnya kebajikan itu ialah beriman kepada Allah, hari kemudian, malaikat-malaikat, kitab-kitab, nabi-nabi dan memberikan harta yang dicintainya kepada kerabatnya, anak-anak yatim, orang-orang miskin, musafir (yang memerlukan pertolongan) dan orang-orang yang meminta-minta; dan (memerdekakan) hamba sahaya, mendirikan shalat, dan menunaikan zakat; dan orang-orang yang menepati janjinya apabila ia berjanji, dan orang-orang yang sabar dalam kesempitan, penderitaan dan dalam peperangan. Mereka itulah orang-orang yang benar (imannya); dan mereka itulah orang-orang yang bertakwa.\n
+        Sesungguhnya orang-orang yang beriman, mengerjakan amal saleh, mendirikan shalat dan menunaikan zakat, mereka mendapat pahala di sisi Tuhannya. Tidak ada kekhawatiran terhadap mereka dan tidak (pula) mereka bersedih hati.\n\n
+        Di dalam Q.S Annisa ayat: 77 dan 162\n
+        Tidakkah kamu perhatikan orang-orang yang dikatakan kepada mereka: "Tahanlah tanganmu (dari berperang), dirikanlah sembahyang dan tunaikanlah zakat!" Setelah diwajibkan kepada mereka berperang, tiba-tiba sebahagian dari mereka (golongan munafik) takut kepada manusia (musuh), seperti takutnya kepada Allah, bahkan lebih sangat dari itu takutnya. Mereka berkata: "Ya Tuhan kami, mengapa Engkau wajibkan berperang kepada kami? Mengapa tidak Engkau tangguhkan (kewajiban berperang) kepada kami sampai kepada beberapa waktu lagi?" Katakanlah: "Kesenangan di dunia ini hanya sebentar dan akhirat itu lebih baik untuk orang-orang yang bertakwa, dan kamu tidak akan dianiaya sedikitpun.\n
+        Tetapi orang-orang yang mendalam ilmunya di antara mereka dan orang-orang mukmin, mereka beriman kepada apa yang telah diturunkan kepadamu (Al Quran), dan apa yang telah diturunkan sebelummu dan orang-orang yang mendirikan shalat, menunaikan zakat, dan yang beriman kepada Allah dan hari kemudian. Orang-orang itulah yang akan Kami berikan kepada mereka pahala yang besar.\n\n
+        Di dalam Q.S Al-Maidah ayat: 12 dan 55\n
+        Dan sesungguhnya Allah telah mengambil perjanjian (dari) Bani Israil dan telah Kami angkat diantara mereka 12 orang pemimpin dan Allah berfirman: "Sesungguhnya Aku beserta kamu, sesungguhnya jika kamu mendirikan shalat dan menunaikan zakat serta beriman kepada rasul-rasul-Ku dan kamu bantu mereka dan kamu pinjamkan kepada Allah pinjaman yang baik sesungguhnya Aku akan menutupi dosa-dosamu. Dan sesungguhnya kamu akan Kumasukkan ke dalam surga yang mengalir air didalamnya sungai-sungai. Maka barangsiapa yang kafir di antaramu sesudah itu, sesungguhnya ia telah tersesat dari jalan yang lurus.\n
+        Sesungguhnya penolong kamu hanyalah Allah, Rasul-Nya, dan orang-orang yang beriman, yang mendirikan shalat dan menunaikan zakat, seraya mereka tunduk (kepada Allah).\n\n
+        Di dalam Q.S Al-Araaf ayat: 156\n
+        Dan tetapkanlah untuk kami kebajikan di dunia ini dan di akhirat; sesungguhnya kami kembali (bertaubat) kepada Engkau. Allah berfirman: "Siksa-Ku akan Kutimpakan kepada siapa yang Aku kehendaki dan rahmat-Ku meliputi segala sesuatu. Maka akan Aku tetapkan rahmat-Ku untuk orang-orang yang bertakwa, yang menunaikan zakat dan orang-orang yang beriman kepada ayat-ayat Kami".\n\n
+        Di dalam Q.S At-Taubah ayat: 5, 11, 18, dan 71\n
+        Apabila sudah habis bulan-bulan Haram itu, maka bunuhlah orang-orang musyrikin itu dimana saja kamu jumpai mereka, dan tangkaplah mereka. Kepunglah mereka dan intailah ditempat pengintaian. Jika mereka bertaubat dan mendirikan sholat dan menunaikan zakat, maka berilah kebebasan kepada mereka untuk berjalan. Sesungguhnya Allah Maha Pengampun lagi maha Penyayang.\n
+        Jika mereka bertaubat, mendirikan sholat dan menunaikan zakat, maka (mereka itu) adalah saudara-saudaramu seagama. Dan Kami menjelaskan ayat-ayat itu bagi kaum yang mengetahui.\n
+        Hanya yang memakmurkan masjid-masjid Allah ialah orang-orang yang beriman kepada Allah dan Hari kemudian, serta tetap mendirikan shalat, menunaikan zakat dan tidak takut (kepada siapapun) selain kepada Allah, maka merekalah orang-orang yang diharapkan termasuk golongan orang-orang yang mendapat petunjuk.\n
+        Dan orang-orang yang beriman, lelaki dan perempuan, sebahagian mereka (adalah) menjadi penolong bagi sebahagian yang lain. Mereka menyuruh (mengerjakan) yang ma'ruf, mencegah dari yang munkar, mendirikan shalat, menunaikan zakat dan mereka taat pada Allah dan Rasul-Nya. Mereka itu akan diberi rahmat oleh Allah; sesungguhnya Allah Maha Perkasa lagi Maha Bijaksana.\n\n
+        Di dalam Q.S Al-Anbiya ayat: 73\n
+        Kami telah menjadikan mereka itu sebagai pemimpin-pemimpin yang memberi petunjuk dengan perintah Kami dan telah Kami wahyukan kepada, mereka mengerjakan kebajikan, mendirikan sembahyang, menunaikan zakat, dan hanya kepada Kamilah mereka selalu menyembah,\n\n
+        Di dalam Q.S Al-Hajj ayat: 41 dan 78\n
+        (yaitu) orang-orang yang jika Kami teguhkan kedudukan mereka di muka bumi niscaya mereka mendirikan sembahyang, menunaikan zakat, menyuruh berbuat ma'ruf dan mencegah dari perbuatan yang mungkar; dan kepada Allah-lah kembali segala urusan.\n
+        Dan berjihadlah kamu pada jalan Allah dengan jihad yang sebenar-benarnya. Dia telah memilih kamu dan Dia sekali-kali tidak menjadikan untuk kamu dalam agama suatu kesempitan. (Ikutilah) agama orang tuamu Ibrahim. Dia (Allah) telah menamai kamu sekalian orang-orang muslim dari dahulu, dan (begitu pula) dalam (Al Quran) ini, supaya Rasul itu menjadi saksi atas dirimu dan supaya kamu semua menjadi saksi atas segenap manusia, maka dirikanlah sembahyang, tunaikanlah zakat dan berpeganglah kamu pada tali Allah. Dia adalah Pelindungmu, maka Dialah sebaik-baik Pelindung dan sebaik-baik Penolong.\n\n
+        Di dalam Q.S An-Nur ayat: 37 dan 56\n
+        laki-laki yang tidak dilalaikan oleh perniagaan dan tidak (pula) oleh jual beli dari mengingati Allah, dan (dari) mendirikan sembahyang, dan (dari) membayarkan zakat. Mereka takut kepada suatu hari yang (di hari itu) hati dan penglihatan menjadi goncang.\n
+        Dan dirikanlah sembahyang, tunaikanlah zakat, dan taatlah kepada rasul, supaya kamu diberi rahmat.\n\n
+        Di dalam Q.S An-naml ayat: 3\n
+        (yaitu) orang-orang yang mendirikan sembahyang dan menunaikan zakat dan mereka yakin akan adanya negeri akhirat.\n\n
+        Di dalam Q.S Luqman ayat: 4\n
+        (yaitu) orang-orang yang mendirikan shalat, menunaikan zakat dan mereka yakin akan adanya negeri akhirat.\n\n
+        Di dalam Q.S Fushilat ayat: 7\n
+        (yaitu) orang-orang yang tidak menunaikan zakat dan mereka kafir akan adanya (kehidupan) akhirat.\n\n
+        Di dalam Q.S Al-Mujadiillah ayat: 13\n
+        Apakah kamu takut akan (menjadi miskin) karena kamu memberikan sedekah sebelum mengadakan pembicaraan dengan Rasul? Maka jika kamu tiada memperbuatnya dan Allah telah memberi taubat kepadamu maka dirikanlah shalat, tunaikanlah zakat, taatlah kepada Allah dan Rasul-Nya; dan Allah Maha Mengetahui apa yang kamu kerjakan.\n\n
+        Di dalam Q.S Al Muz'amil ayat: 20\n
+        Sesungguhnya Tuhanmu mengetahui bahwasanya kamu berdiri (sembahyang) kurang dari dua pertiga malam, atau seperdua malam atau sepertiganya dan (demikian pula) segolongan dari orang-orang yang bersama kamu. Dan Allah menetapkan ukuran malam dan siang. Allah mengetahui bahwa kamu sekali-kali tidak dapat menentukan batas-batas waktu-waktu itu, maka Dia memberi keringanan kepadamu, karena itu bacalah apa yang mudah (bagimu) dari Al Quran. Dia mengetahui bahwa akan ada di antara kamu orang-orang yang sakit dan orang-orang yang berjalan di muka bumi mencari sebagian karunia Allah; dan orang-orang yang lain lagi berperang di jalan Allah, maka bacalah apa yang mudah (bagimu) dari Al Quran dan dirikanlah sembahyang, tunaikanlah zakat dan berikanlah pinjaman kepada Allah pinjaman yang baik. Dan kebaikan apa saja yang kamu perbuat untuk dirimu niscaya kamu memperoleh (balasan)nya di sisi Allah sebagai balasan yang paling baik dan yang paling besar pahalanya. Dan mohonlah ampunan kepada Allah; sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.\n\n
+        Di dalam Q.S Al-Bayyinah ayat: 5\n
+        Padahal mereka tidak disuruh kecuali supaya menyembah Allah dengan memurnikan ketaatan kepada-Nya dalam (menjalankan) agama yang lurus, dan supaya mereka mendirikan shalat dan menunaikan zakat; dan yang demikian itulah agama yang lurus.
+    </string>
     <string name="macam_macam_zakat">Macam-macam Zakat</string>
     <string name="zakat_fitrah">Zakat Fitrah</string>
-    <string name="zakat_mal">Zakat Mal</string>
+    <string name="zakat_mal">Zakat Maal</string>
     <string name="zakat_profesi">Zakat Profesi</string>
+    <string name="dalil_zakat">Dalil Zakat</string>
+    <string name="zakat_fitrah_adalah">Zakat fitrah adalah zakat yang dikeluarkan oleh setiap orang Islam yang mempunyai kelebihan untuk keperluan keluarga yang wajar pada malam hari raya Idul Fitri. Zakat ini dinamakan zakat fitrah karena di kaitkan dengan diri (al-Fitrah) seseorang. Zakat fitrah dibayarkan pada bulan Ramadhan hingga sholat Idul Fitri. Adapun jumlah dan jenis zakat ini adalah 1 sha’ tamar atau satu sha’ gandum, tergantung jenis makanan pokok yang terdapat di daerah tertentu. Zakat fitrah ini dimaksudkan untuk membersihkan dosa-dosa yang pernah dilakukan selama puasa Ramadhan, agar orang-orang itu benar-benar kembali kepada keadaan fitrah. Zakat fitri yang dibayarkan sesuai dengan kebutuhan pokok di suatu masyarakat, dengan ukuran yang juga disesuaikan dengan kondisi ukuran atau timbangan yang berlaku, juga dapat diukur dengan satuan uang. Di Indonesia, zakat fitrah diukur dengan timbangan beras sebanyak 2,5kg.</string>
+    <string name="zakat_maal_adalah">Zakat maal adalah zakat yang berupa harta kekayaan yang dikeluarkan oleh seseorang atau badan hukum dengan ketentuan telah memenuhi satu nisab dan telah dimiliki salama satu tahun.</string>
 </resources>

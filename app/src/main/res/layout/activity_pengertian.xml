@@ -8,7 +8,7 @@
         android:id="@+id/toolbar"
         android:background="@color/colorPrimary"
         app:navigationIcon="@drawable/v_back"
-        app:title="Dalil Zakat"
+        app:title="@string/pengertian_zakat"
         app:titleTextColor="@android:color/white"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
@@ -22,7 +22,7 @@
             <TextView
                 android:padding="16dp"
                 android:textAlignment="center"
-                android:text="@string/dalil"
+                android:text="@string/zakat_adalah"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
         </LinearLayout>
