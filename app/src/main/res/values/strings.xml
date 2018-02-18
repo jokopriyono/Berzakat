@@ -51,9 +51,20 @@
     </string>
     <string name="macam_macam_zakat">Macam-macam Zakat</string>
     <string name="zakat_fitrah">Zakat Fitrah</string>
-    <string name="zakat_mal">Zakat Maal</string>
+    <string name="zakat_maal">Zakat Maal</string>
     <string name="zakat_profesi">Zakat Profesi</string>
     <string name="dalil_zakat">Dalil Zakat</string>
     <string name="zakat_fitrah_adalah">Zakat fitrah adalah zakat yang dikeluarkan oleh setiap orang Islam yang mempunyai kelebihan untuk keperluan keluarga yang wajar pada malam hari raya Idul Fitri. Zakat ini dinamakan zakat fitrah karena di kaitkan dengan diri (al-Fitrah) seseorang. Zakat fitrah dibayarkan pada bulan Ramadhan hingga sholat Idul Fitri. Adapun jumlah dan jenis zakat ini adalah 1 sha’ tamar atau satu sha’ gandum, tergantung jenis makanan pokok yang terdapat di daerah tertentu. Zakat fitrah ini dimaksudkan untuk membersihkan dosa-dosa yang pernah dilakukan selama puasa Ramadhan, agar orang-orang itu benar-benar kembali kepada keadaan fitrah. Zakat fitri yang dibayarkan sesuai dengan kebutuhan pokok di suatu masyarakat, dengan ukuran yang juga disesuaikan dengan kondisi ukuran atau timbangan yang berlaku, juga dapat diukur dengan satuan uang. Di Indonesia, zakat fitrah diukur dengan timbangan beras sebanyak 2,5kg.</string>
     <string name="zakat_maal_adalah">Zakat maal adalah zakat yang berupa harta kekayaan yang dikeluarkan oleh seseorang atau badan hukum dengan ketentuan telah memenuhi satu nisab dan telah dimiliki salama satu tahun.</string>
+    <string name="harga_beras_kg">Harga Beras / Kg</string>
+    <string name="pilih_ternak">Pilih jenis hewan ternak</string>
+    <string name="sapi">Sapi</string>
+    <string name="kambing">Kambing</string>
+    <string name="jumlah_hewan_ternak">Jumlah hewan ternak</string>
+    <string name="ekor">ekor</string>
+    <string name="ketentuan_ternak">*Sapi mininal 30 ekor\n*Kambing minimal 40 ekor</string>
+    <string name="dagang">Dagang</string>
+    <string name="modal_usaha">Modal usaha</string>
+    <string name="laba_bersih">Laba bersih</string>
+    <string name="hutang">Hutang</string>
 </resources>

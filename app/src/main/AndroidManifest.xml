@@ -24,7 +24,8 @@
         <activity android:name=".DalilActivity" />
         <activity android:name=".PengertianActivity" />
         <activity android:name=".ZakatFitrahActivity" />
-        <activity android:name=".ZakatMaalActivity"></activity>
+        <activity android:name=".ZakatMaalActivity" />
+        <activity android:name=".TentangActivity"></activity>
     </application>
 
 </manifest>

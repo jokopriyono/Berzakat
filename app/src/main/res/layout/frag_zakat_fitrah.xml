@@ -1,34 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
     android:padding="16dp"
     android:gravity="center_horizontal"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TextView
-        android:text="@string/dagang"
+        android:text="@string/zakat_fitrah"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
     <EditText
-        android:id="@+id/edt_modal"
-        android:hint="@string/modal_usaha"
-        android:inputType="number"
-        android:layout_width="200dp"
-        android:layout_height="wrap_content" />
-    <EditText
-        android:id="@+id/edt_laba"
-        android:hint="@string/laba_bersih"
-        android:inputType="number"
-        android:layout_width="200dp"
-        android:layout_height="wrap_content" />
-    <EditText
-        android:id="@+id/edt_hutang"
-        android:hint="@string/hutang"
-        android:inputType="number"
+        android:id="@+id/edt_harga_beras"
+        android:inputType="numberDecimal"
+        android:hint="@string/harga_beras_kg"
         android:layout_width="200dp"
         android:layout_height="wrap_content" />
     <Button
-        android:id="@+id/btn_hitung"
+        android:id="@+id/btn_hitung_fitrah"
         android:background="@drawable/button_background"
         android:text="@string/hitung"
         android:textColor="@android:color/white"
@@ -37,8 +28,8 @@
         android:layout_width="200dp"
         android:layout_height="wrap_content" />
     <TextView
-        android:id="@+id/txt_zakat_dagang"
-        android:textAlignment="center"
+        android:id="@+id/txt_zakat_fitrah"
+        android:layout_marginBottom="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </LinearLayout>

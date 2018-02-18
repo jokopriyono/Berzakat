@@ -1,45 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <android.support.v7.widget.Toolbar
-        android:id="@+id/toolbar"
-        android:background="@color/colorPrimary"
-        app:title="@string/app_name"
-        app:titleTextColor="@android:color/white"
+    <ImageView
+        android:src="@drawable/background"
+        android:scaleType="centerCrop"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/minus" />
+    <LinearLayout
         android:orientation="vertical"
-        android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-        <Button
-            android:id="@+id/btn_apa_sih"
-            android:background="@drawable/button_background"
-            android:text="@string/apa_sih"
-            android:layout_marginBottom="10dp"
-            android:textAllCaps="false"
-            android:layout_width="200dp"
-            android:layout_height="wrap_content" />
-        <Button
-            android:id="@+id/btn_hitung_fitrah"
-            android:background="@drawable/button_background"
-            android:text="@string/hitung_zakat"
-            android:layout_marginBottom="100dp"
-            android:textAllCaps="false"
-            android:layout_width="200dp"
-            android:layout_height="wrap_content" />
-        <Button
-            android:id="@+id/btn_tentang"
-            android:background="@drawable/button_background"
-            android:text="@string/tentang"
-            android:layout_marginBottom="10dp"
-            android:textAllCaps="false"
-            android:layout_width="200dp"
-            android:layout_height="wrap_content" />
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:background="@color/colorPrimary"
+            app:title="Menu Utama"
+            app:titleTextColor="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/btn_apa_sih"
+                android:background="@drawable/button_background"
+                android:text="@string/apa_sih"
+                android:textColor="@android:color/white"
+                android:layout_marginBottom="10dp"
+                android:textAllCaps="false"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content" />
+            <Button
+                android:id="@+id/btn_hitung_fitrah"
+                android:background="@drawable/button_background"
+                android:text="@string/hitung_zakat"
+                android:textColor="@android:color/white"
+                android:layout_marginBottom="100dp"
+                android:textAllCaps="false"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content" />
+            <Button
+                android:id="@+id/btn_tentang"
+                android:background="@drawable/button_background"
+                android:text="@string/tentang"
+                android:textColor="@android:color/white"
+                android:layout_marginBottom="10dp"
+                android:textAllCaps="false"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
     </LinearLayout>
-</LinearLayout>
+</FrameLayout>

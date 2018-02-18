@@ -15,14 +15,19 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
 
         Button btnTutorial = findViewById(R.id.btn_apa_sih);
         Button btnSimulasi = findViewById(R.id.btn_hitung_fitrah);
+        Button btnTentang = findViewById(R.id.btn_tentang);
 
         btnTutorial.setOnClickListener(this);
         btnSimulasi.setOnClickListener(this);
+        btnTentang.setOnClickListener(this);
     }
 
     @Override
     public void onClick(View view) {
         switch (view.getId()){
+            case R.id.btn_tentang:
+                startActivity(new Intent(this, TentangActivity.class));
+                break;
             case R.id.btn_apa_sih:
                 startActivity(new Intent(this, ApaSihActivity.class));
                 break;

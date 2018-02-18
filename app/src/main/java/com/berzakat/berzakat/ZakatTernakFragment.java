@@ -47,8 +47,43 @@ public class ZakatTernakFragment extends Fragment {
                             if (sapi <30){
                                 edtZakatTernak.setError("Sapi minimal 30 ekor");
                             } else {
-                                int tabi = sapi/30;
-                                int musinnah = sapi/40;
+                                while (sapi%10 != 0){
+                                    sapi--;
+                                }
+                                int tabi = 0;
+                                int musinnah = 0;
+                                if (sapi%30 == 0){
+                                    tabi = sapi/30;
+                                    musinnah = 0;
+                                }
+                                else if (sapi%40 == 0){
+                                    tabi = 0;
+                                    musinnah = sapi/40;
+                                }
+                                else if (sapi%30 != 0){
+                                    if (sapi%30 == 10) {
+                                        Toast.makeText(getContext(), "masuk1", Toast.LENGTH_SHORT).show();
+                                        tabi = (sapi - 30) / 30;
+                                        musinnah = 1;
+                                    } else {
+                                        //kasus 110  140  170  230  260
+                                        Toast.makeText(getContext(), "masuk2", Toast.LENGTH_SHORT).show();
+                                        musinnah = (sapi-10)/40;
+                                        tabi = 1;
+                                    }
+                                }
+                                else if(sapi%40 != 0){
+                                    if (sapi%40 == 10) {
+                                        Toast.makeText(getContext(), "masuk3", Toast.LENGTH_SHORT).show();
+                                        tabi = (sapi - 30) / 30;
+                                        musinnah = 1;
+                                    } else {
+                                        Toast.makeText(getContext(), "masuk4", Toast.LENGTH_SHORT).show();
+                                    }
+                                }
+
+//                                int tabi = sapi/30;
+//                                int musinnah = sapi/40;
                                 String zakat = "Zakat Sapi :\n"+tabi+" ekor tabi'/tabi'ah\natau\n"+musinnah+" ekor musinnah";
                                 txtZakatTernak.setText(zakat);
                             }
