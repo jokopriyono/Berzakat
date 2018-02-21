@@ -70,7 +70,7 @@ public class ZakatTernakFragment extends Fragment {
                                         musinnah = 2;
                                     }
                                 }
-                                String zakat = "Zakat Sapi :\n"+tabi+" ekor tabi'/tabi'ah\natau\n"+musinnah+" ekor musinnah";
+                                String zakat = "Zakat Sapi :\n"+tabi+" ekor tabi'/tabi'ah\ndan\n"+musinnah+" ekor musinnah";
                                 txtZakatTernak.setText(zakat);
                             }
                         } else if (radioButton.getText().equals("Kambing")){
